@@ -1,6 +1,12 @@
 # Superstore Sales Analysis - Power BI Project
 
 ဒီပရောဂျက်ကတော့ Superstore ရောင်းအားဒေတာတွေကို Power BI နဲ့ ပေါ့ပေါ့ပါးပါး သန့်ရှင်းရေးလုပ်ပြီး ဘယ်လိုခွဲခြမ်းစိတ်ဖြာလဲဆိုတာ ပြထားတာပါ။
+### **ဒီဒေတာလေးတွေ ဘယ်ကရလဲ? (Where did I get this data from?)**
+
+ဒီပရောဂျက်မှာ သုံးထားတဲ့ "Sample - Superstore.csv" ဒေတာတွေကတော့ Data Analysis ပရောဂျက်တွေအတွက် အမြဲလိုလို သုံးနေကျ နမူနာဒေတာလေးတွေပါ။ 
+ဒီကနေ ဒေါင်းလို့ရပါတယ်နော်:
+(https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)
+* **Kaggle မှာ ရှာမယ်ဆိုရင်လည်း "Sample Superstore" လို့ ရိုက်ရှာကြည့်လို့ရပါတယ်။**
 
 ---
 
